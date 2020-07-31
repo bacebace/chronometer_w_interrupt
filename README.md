@@ -1,2 +1,1 @@
-# clock_w_interrupt
-clock w/ interrupt 
+projeto de EA871 (roteiro 8)
